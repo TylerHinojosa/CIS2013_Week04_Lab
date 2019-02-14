@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void guess (){
+bool guess (){
 	cout << "Make your guess:" << endl;
 	return true;
 }
